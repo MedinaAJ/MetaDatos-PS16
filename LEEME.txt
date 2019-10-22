@@ -1,0 +1,7 @@
+INSTALACIÓN:
+
+En leo_wooden -> product.tpl
+Busca => 	     <!-- end thumbnails -->
+Pega justo debajo => {hook h="displayMediHookIcons" product=$product->getProductLink}
+
+Desarrollado por Alejandro Medina :)
